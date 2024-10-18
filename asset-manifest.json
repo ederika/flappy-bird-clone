@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/flappy-bird-clone/static/css/main.56bb138e.css",
+    "main.js": "/flappy-bird-clone/static/js/main.6183f8b2.js",
+    "static/media/die.mp3": "/flappy-bird-clone/static/media/die.a01030d959666e94b9b7.mp3",
+    "static/media/point.mp3": "/flappy-bird-clone/static/media/point.f9fe05802dd7249543c9.mp3",
+    "static/media/hit.mp3": "/flappy-bird-clone/static/media/hit.19349b2265e26110a4c4.mp3",
+    "static/media/wing.mp3": "/flappy-bird-clone/static/media/wing.1b5563c334d8374fb332.mp3",
+    "index.html": "/flappy-bird-clone/index.html",
+    "main.56bb138e.css.map": "/flappy-bird-clone/static/css/main.56bb138e.css.map",
+    "main.6183f8b2.js.map": "/flappy-bird-clone/static/js/main.6183f8b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56bb138e.css",
+    "static/js/main.6183f8b2.js"
+  ]
+}
